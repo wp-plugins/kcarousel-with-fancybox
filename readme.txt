@@ -3,7 +3,7 @@ Contributors: Kadir Razu
 Tags: plugin, fancybox, carousel, slider
 Requires at least: 2.0.0
 Tested up to: 3.5.1
-Stable tag: 1.0.0
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,8 +16,6 @@ This plugin can be used to display a group of images in Carousel format with Fan
 You can set your carousel custom options from the wordpress administrator backend. You can control over your carousel transion effect, time, direction etc.
 You can view larrger version of your carousel image by simply clicking on them. Larger version of image will open in a responsive fancybox.
 You can navigate through images in fancybox window.
-
-Demo: http://kadirrazu.info/wp/demo/kcarousel-with-fancybox/
 
 
 = Plugin Settings =
