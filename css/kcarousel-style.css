@@ -1,0 +1,51 @@
+/*Custom Stylesheet for KCarousel*/
+
+.image_carousel {
+	padding: 15px 0px 15px 40px;
+}
+.image_carousel img {
+	border: 1px solid #ccc;
+	background-color: white;
+	padding: 7px;
+	margin: 7px;
+	display: block;
+	float: left;
+}
+.image_carousel a {
+	display: block;
+	float: left;
+}
+
+.pagination {
+	padding: 10px 10px 10px 15px;
+}
+
+.pagination a {
+	background: #9A1F61;
+	opacity: 0.5;
+	width: 10px;
+	height: 10px;
+	margin: 0 5px 0 0;
+	display: inline-block;
+	border: 1px solid #C0739B;
+	-moz-border-radius: 10px;/*Firefox*/
+	-webkit-border-radius: 10px;/*Safari, Chrome*/
+	border-radius: 10px;
+}
+
+.pagination a:hover {
+	opacity: 1;
+}
+
+.pagination a.selected {
+	cursor: default;
+	background: blue;
+	opacity: 1;
+}
+.pagination a span {
+	display: none;
+}
+.clearfix {
+	float: none;
+	clear: both;
+}
